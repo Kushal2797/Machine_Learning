@@ -15,12 +15,12 @@ All the algorithms and code related to machine learning.
 
 ** To get the information related to each module, go to their directory and find the README file
 
-### Datasets used for testing above algorithms(priority wise)
-1. http://archive.ics.uci.edu/ml/datasets/Breast+Cancer
-
-2. http://archive.ics.uci.edu/ml/datasets/Ionosphere
-
-3. https://web.njit.edu/~usman/courses/cs675_fall16/datasets/
 
 * you can download more DataSets from following website for executing above algorithms,
 http://archive.ics.uci.edu/ml/datasets.html
+
+
+*** Results
+** Best Model  ============  Naive Bayes Classifier 
+F1- Score  = 83%  Training 
+ROC - AUC  = 0.87 Fine Tuning 
