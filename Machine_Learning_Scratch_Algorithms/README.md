@@ -20,7 +20,7 @@ All the algorithms and code related to machine learning.
 http://archive.ics.uci.edu/ml/datasets.html
 
 
-*** Results
-** Best Model  ============  Naive Bayes Classifier 
-F1- Score  = 83%  Training 
-ROC - AUC  = 0.87 Fine Tuning 
+### Results
+* Best Model  ============  Naive Bayes Classifier 
+* F1- Score  = 83%  Training 
+* ROC - AUC  = 0.87 Fine Tuning 
