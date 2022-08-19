@@ -21,4 +21,4 @@ http://archive.ics.uci.edu/ml/datasets.html
 
 
 ### Results
-![Alt text](https://github.com/Kushal2797/Degree-of-Doneness/blob/main/Screen%20Shot%202022-08-18%20at%2012.12.28%20PM.png "Classification Report")
+![Alt text](https://github.com/Kushal2797/Machine_Learning/blob/main/Machine_Learning_Scratch_Algorithms/Screen%20Shot%202022-08-19%20at%206.28.28%20PM.png "Classification Report")
