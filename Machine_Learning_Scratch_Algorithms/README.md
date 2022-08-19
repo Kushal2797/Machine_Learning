@@ -21,6 +21,4 @@ http://archive.ics.uci.edu/ml/datasets.html
 
 
 ### Results
-* Best Model  ============  Naive Bayes Classifier 
-* F1- Score  = 83%  Training 
-* ROC - AUC  = 0.87 Fine Tuning 
+![Alt text](https://github.com/Kushal2797/Degree-of-Doneness/blob/main/Screen%20Shot%202022-08-18%20at%2012.12.28%20PM.png "Classification Report")
